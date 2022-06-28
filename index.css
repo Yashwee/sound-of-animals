@@ -1,0 +1,25 @@
+#heading
+{
+    background-color: grey;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#bodyf
+{
+    background-color:darkseagreen;
+    font-family: 'Courier New', Courier, monospace;
+color: white;
+}
+
+#image
+{
+    width: 300px;
+    height: 300px;
+}
+
+#foot
+{
+    color: black;
+    text-shadow: 10px;
+}
